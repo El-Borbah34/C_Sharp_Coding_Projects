@@ -1,0 +1,54 @@
+﻿
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Get a Quote for car insurance!</h5>
+        </div>
+        <div class="card-body">
+            @using(Html.BeginForm("GenerateQuote", "Home", FormMethod.Post))
+            {
+            <div class="row no-gutters">
+                <div class="form-group col-md-12">
+                    <label for="firstName">What is your first name?</label>
+                    <input type="text" name="firstName" class="form-control" placeholder="First Name" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label for="lastName">What is your last name?</label>
+                    <input type="text" name="lastName" class="form-control" placeholder="Last Name" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label for="emailAddress">What is your email address?</label>
+                    <input type="email" name="emailAddress" class="form-control" placeholder="Email Address" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label for="dateOfBirth">What is your date of birth?</label>
+                    <input type="date" name="dateOfBirth" class="form-control" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label for="carYear">What year did your car come out?</label>
+                    <input type="number" name="carYear" class="form-control" min="1950" max="2020" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input type="text" name="carMake" class="form-control" placeholder="Car Make" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input type="text" name="carModel" class="form-control" placeholder="Car Model" />
+                </div>
+                <div class="form-group col-md-6 mx-auto">
+                    <label for="Dui">DUI?</label>
+                    @Html.CheckBox("dui", true)
+                </div>
+                <div class="form-group col-md-12">
+                    <label for="speedingTickets">How many Speeding Tickets do you have?</label>
+                    <input type="number" name="speedingTickets" class="form-control" min="0" max="50" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label for="converageType">Would you like full coverage or liability?</label>
+                    <input type="text" name="coverageType" class="form-control" placeholder="" />
+                </div>
+                <button type="submit" class="btn btn-block btn-primary">Submit</button>
+            </div>
+            }
+        </div>
+    </div>
+</div> 
