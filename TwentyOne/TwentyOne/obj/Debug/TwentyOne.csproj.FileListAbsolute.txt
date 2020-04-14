@@ -1,0 +1,9 @@
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Hal 9000\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

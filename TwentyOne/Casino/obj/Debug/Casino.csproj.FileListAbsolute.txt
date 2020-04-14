@@ -1,0 +1,5 @@
+C:\Users\Hal 9000\source\repos\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\Hal 9000\source\repos\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\Hal 9000\source\repos\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\Hal 9000\source\repos\TwentyOne\Casino\obj\Debug\Casino.pdb
+C:\Users\Hal 9000\source\repos\TwentyOne\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
