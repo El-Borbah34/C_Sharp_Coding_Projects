@@ -9,4 +9,4 @@ It allows me to cover the functionalities as well as demonstrating use of an obj
 Entity Framework in my Car Insurance web application, that also deals with a database first approach to Entity Framework.
 
 ## Please feel free to look through my repository
-This was work completely done by me. Please reach out to me if you have further questions.
+This was work completely done by me. Please reach out to me if you have further questions. My final project was the functional BlackJack Game.
